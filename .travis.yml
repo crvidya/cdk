@@ -5,4 +5,3 @@ python:
 install: "make getdata && pip install -r requirements.txt --use-mirrors"
 # command to run tests
 script: make test
-
